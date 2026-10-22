@@ -1,0 +1,23 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Лиза",
+      "age": 22,
+      "is_active": true
+    },
+    {
+      "id": 2,
+      "name": "Анна",
+      "age": 25,
+      "is_active": true
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Ноутбук",
+      "price": 120000.0
+    }
+  ]
+}
